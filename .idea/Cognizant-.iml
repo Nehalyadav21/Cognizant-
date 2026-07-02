@@ -3,7 +3,25 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Week 1/Design Patterns and Principles/SingletonPatternExample/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Data Structures and Algorithms/Exercise 7/Financial Forecasting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Data Structures and Algorithms/Exercise2/E-commerce Platform Search Function" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Design Patterns and Principles/Exercise1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Design Patterns and Principles/Exercise2/FactoryMethodPatternExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/JUnit5/Exercise 3- Assertions in JUnit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/JUnit5/Exercise1-Setting Up JUnit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/1. spring-rest-handson/Create a Spring Web Project using Maven/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/1. spring-rest-handson/Create a Spring Web Project using Maven/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/1. spring-rest-handson/Spring Core – Load Country from Spring Configuration XML/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/1. spring-rest-handson/Spring Core – Load Country from Spring Configuration XML/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/2. spring-rest-handson/Hello World RESTful Web Service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/2. spring-rest-handson/Hello World RESTful Web Service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/2. spring-rest-handson/REST - Country Web Service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/2. spring-rest-handson/REST - Get country based on country code/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/2. spring-rest-handson/REST - Get country based on country code/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/3. spring-rest-handson/All hands-on/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/3. spring-rest-handson/All hands-on/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/5. JWT-handson/Create authentication service that returns JWT/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week 3/5. JWT-handson/Create authentication service that returns JWT/src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

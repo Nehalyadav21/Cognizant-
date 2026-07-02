@@ -1,4 +1,14 @@
-package PACKAGE_NAME;
+public class LinearSearch implements SearchStrategy {
 
-public class LinearSearch {
+    @Override
+    public Product search(Product[] products, int id) {
+
+        for (Product product : products) {
+            if (product.getId() == id) {
+                return product;
+            }
+        }
+
+        return null;
+    }
 }

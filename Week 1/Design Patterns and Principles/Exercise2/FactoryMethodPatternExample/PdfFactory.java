@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class PdfFactory extends DocumentFactory {
 
-public class PdfFactory {
+    @Override
+    public Document createDocument() {
+        return new PdfDocument();
+    }
 }

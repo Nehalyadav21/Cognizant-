@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Document {
+public interface Document {
+    void open();
 }

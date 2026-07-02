@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class PdfDocument implements Document {
 
-public class PdfDocument {
+    @Override
+    public void open() {
+        System.out.println("Opening PDF Document");
+    }
 }

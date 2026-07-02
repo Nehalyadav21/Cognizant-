@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class ExcelFactory extends DocumentFactory {
 
-public class ExcelFactory {
+    @Override
+    public Document createDocument() {
+        return new ExcelDocument();
+    }
 }

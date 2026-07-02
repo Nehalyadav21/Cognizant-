@@ -1,38 +1,38 @@
 package org.example;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-    extends TestCase
-{
-    /**
-     * Create the test case
-     *
-     * @param testName name of the test case
-     */
-    public AppTest( String testName )
-    {
-        super( testName );
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+public class BankAccountTest {
+
+    private BankAccount account;
+
+    @BeforeEach
+    void setUp() {
+        account = new BankAccount(100);
+        System.out.println("Before Test: Account initialized with $100.");
     }
 
-    /**
-     * @return the suite of tests being tested
-     */
-    public static Test suite()
-    {
-        return new TestSuite( AppTest.class );
+    @AfterEach
+    void tearDown() {
+        account = null;
+        System.out.println("After Test: Cleaning up account object.");
     }
 
-    /**
-     * Rigourous Test :-)
-     */
-    public void testApp()
-    {
-        assertTrue( true );
+    @Test
+    void testDeposit() {
+
+        // Arrange
+        double amount = 50;
+
+        // Act
+        account.deposit(amount);
+
+        // Assert
+        assertEquals(150, account.getBalance());
+        System.out.println("Test: Deposit logic verified.");
     }
 }

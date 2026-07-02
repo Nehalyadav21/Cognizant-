@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Librarymanagement" />
         <module name="Exercise1-SettingUpJUnit" />
+        <module name="Exercise3-AssertionsinJUnit" />
+        <module name="Exercise2-ImplementingDependencyInjection" />
+        <module name="Exercise4-AAA" />
       </profile>
     </annotationProcessing>
   </component>

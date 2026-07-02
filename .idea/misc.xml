@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week 1/JUnit5/Exercise1-Setting Up JUnit/Exercise1-SettingUpJUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/JUnit5/Exercise 3- Assertions in JUnit/Exercise 3- Assertions in JUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/Week 1/JUnit5/Exercise4 - Arrange-Act-Assert (AAA) Pattern/Exercise4-AAA/pom.xml" />
+        <option value="$PROJECT_DIR$/week 2/Spring Core and Maven/Exercise 1: Configuring a Basic Spring Application/Librarymanagement/pom.xml" />
+        <option value="$PROJECT_DIR$/week 2/Spring Core and Maven/Exercise 2: Implementing Dependency Injection/Exercise2-ImplementingDependencyInjection/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
