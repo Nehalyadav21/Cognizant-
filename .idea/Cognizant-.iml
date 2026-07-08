@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/week 3/3. spring-rest-handson/All hands-on/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/week 3/5. JWT-handson/Create authentication service that returns JWT/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week 3/5. JWT-handson/Create authentication service that returns JWT/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 1/Design Patterns and Principles/Exercise 1 " isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
